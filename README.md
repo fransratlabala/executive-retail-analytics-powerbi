@@ -2,6 +2,7 @@
  This report is structured as an interactive 3-page business application engineered to answer critical, high-stakes operational questions
  
  Page 1: Executive OverviewThe Business
+ 
  Question: What is the current macro health of our global sales pipeline, and where are operational anomalies occurring?
  
  solution:
